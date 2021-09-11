@@ -32,3 +32,7 @@ int main()
     cout<<ans<<endl;
     return 0;
 }
+
+/*
+The above approach is sliding window two pointer approach
+*/
