@@ -36,6 +36,10 @@ int main()
 }
 
 /*
+sliding window technique two pointer
+
+https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
+
 Video Tutorial
 https://youtu.be/CqgK_qi4SKQ?list=RDCMUC__WEiLwRXmgTHZQ4hYAk_w
 
