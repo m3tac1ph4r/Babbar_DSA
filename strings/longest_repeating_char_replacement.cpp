@@ -25,7 +25,7 @@ int main()
 }
 
 /*
-The above solution is solved using sliding window two pointer technique/
+The above solution is solved using sliding window two pointer technique
 https://leetcode.com/problems/longest-repeating-character-replacement/
 
 
