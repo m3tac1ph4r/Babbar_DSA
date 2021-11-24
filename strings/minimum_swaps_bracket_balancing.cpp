@@ -45,3 +45,16 @@ int main()
     cout<<endl<<minSwaps(s);
     return 0;
 }
+
+/*
+https://www.geeksforgeeks.org/minimum-swaps-bracket-balancing/
+
+
+Input  : []][][
+Output : 2
+First swap: Position 3 and 4
+[][]][
+Second swap: Position 5 and 6
+[][][]
+
+*/
