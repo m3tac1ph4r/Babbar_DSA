@@ -39,7 +39,7 @@ Space complexity : O(n)
 
 
 /*
-The below code is my approach. I am geeting TLE in the below code
+This code is getting TLE.
 
 ll int volume=0;
     int arr[] = {8,8,2,4,5,5,1};
